@@ -1,32 +1,29 @@
-### Hi there 👋
+<div align="center">
 
-<h2 align="center">:computer: My Tech Stack</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,docker,postgres,maven,gradle" />
-  </a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=f5e0dc&fontColor=45475a&text=Millrocious&fontSize=90&fontAlignY=40&desc=Full%20Stack%20Engineer&descAlignY=55&descSize=20)
 
-<h2 align="center">:trophy: My Stats</h2>
-
-<div class='container'>
-<img style="height: auto; width: 51%;" class="img" src="https://github-readme-stats.vercel.app/api?username=millrocious&theme=dark" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millrocious&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" /></div>
 </div>
 
-<!--
-**Millrocious/Millrocious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Tech+Stack)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,typescript,react,postgres,sqlserver,aws,docker,nix)
+  
+
+</div>
+
+<br/>
+
+<br/>
+
